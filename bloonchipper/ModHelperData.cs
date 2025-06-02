@@ -2,7 +2,7 @@ namespace bloonchipperfixed;
 
 public static class ModHelperData
 {
-    public const string Version = "45";
+    public const string Version = "1.0.0";
     public const string Name = "bloonchipperfixed";
 
     public const string Description = "adds the bloonchipper to the game";
