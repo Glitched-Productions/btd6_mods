@@ -1,0 +1,10 @@
+*/.vs/*
+*/*/.vs/*
+*/packages/*
+*/bin/*
+quickgame/*
+*/obj/*
+*/*/obj/*
+.suo
+*.cache
+*.pdb
